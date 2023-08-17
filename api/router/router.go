@@ -1,10 +1,10 @@
 package router
 
 import (
-	"alghanim/mediacmsAPI/api/handler"
-	"alghanim/mediacmsAPI/api/middleware"
-	"alghanim/mediacmsAPI/repository"
-	"alghanim/mediacmsAPI/service"
+	"alghanim/mainAPI/api/handler"
+	"alghanim/mainAPI/api/middleware"
+	"alghanim/mainAPI/repository"
+	"alghanim/mainAPI/service"
 	"database/sql"
 
 	"github.com/Nerzal/gocloak/v8"

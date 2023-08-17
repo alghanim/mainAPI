@@ -1,8 +1,8 @@
 package service
 
 import (
-	"alghanim/mediacmsAPI/model"
-	"alghanim/mediacmsAPI/repository"
+	"alghanim/mainAPI/model"
+	"alghanim/mainAPI/repository"
 )
 
 type UserService interface {

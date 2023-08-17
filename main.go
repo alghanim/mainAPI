@@ -1,8 +1,8 @@
 package main
 
 import (
-	"alghanim/mediacmsAPI/api/router"
-	"alghanim/mediacmsAPI/database"
+	"alghanim/mainAPI/api/router"
+	"alghanim/mainAPI/database"
 
 	"github.com/labstack/echo"
 )

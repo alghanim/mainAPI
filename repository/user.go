@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"alghanim/mediacmsAPI/model"
+	"alghanim/mainAPI/model"
 	"database/sql"
 )
 

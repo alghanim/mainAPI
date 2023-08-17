@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"alghanim/mediacmsAPI/model"
-	"alghanim/mediacmsAPI/service"
+	"alghanim/mainAPI/model"
+	"alghanim/mainAPI/service"
 	"net/http"
 	"strconv"
 
